@@ -1,0 +1,14 @@
+package javaclass;
+import java.util.*;
+
+public class Test {
+	public static void main(String [] args)
+	{
+		int x;
+		x = 5;
+		System.out.print(x);
+		Scanner s;
+		s = new Scanner(System.in);
+	}
+
+}
